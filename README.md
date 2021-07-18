@@ -1,4 +1,4 @@
-# PyCharm-LSTM-ARIMA
+# LSTM-ARIMA
 - Trabalho de Conclusão do Curso de Ciência de Dados da PUCMINAS
 - Instalação do Projeto usando Anaconda Versão 3 ou superior:
 
