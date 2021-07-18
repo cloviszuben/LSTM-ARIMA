@@ -5,7 +5,7 @@ Intalação do Projeto usando Anaconda Versão 3 ou superior:
 
 2) Baixe os arquivos do GitHub com: git clone https://github.com/cloviszuben/LSTM-ARIMA.git
 
-3) cd LSTM-ARIMA
+3) cd LSTM-ARIMA 
 
 4) Abra o prompt de comandos e aplique os comandos:
 
