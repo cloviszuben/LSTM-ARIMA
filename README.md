@@ -1,6 +1,6 @@
-Trabalho de Conclusão do Curso de Ciência de Dados da PUCMINAS
-
-Intalação do Projeto usando Anaconda Versão 3 ou superior:
+# PyCharm-LSTM-ARIMA
+- Trabalho de Conclusão do Curso de Ciência de Dados da PUCMINAS
+- Intalação do Projeto usando Anaconda Versão 3 ou superior:
 
 1) Instale o framework Anaconda a partir do site ==> https://www.anaconda.com/products/individual#Downloads
 
