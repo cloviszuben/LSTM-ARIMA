@@ -1,3 +1,4 @@
+TCC - Trabalho de conclusão de curso da PUCMINAS - Curso de Ciência de Dados
 
 Intalação do Projeto usando Anaconda Versão 3 ou superior:
 
