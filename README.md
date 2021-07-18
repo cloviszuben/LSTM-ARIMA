@@ -10,6 +10,7 @@ Intalação do Projeto usando Anaconda Versão 3 ou superior:
 4) Abra o prompt de comandos e aplique os comandos:
 
     $> conda create --name LSTM-ARIMA --file requirements.txt
+    
     $> conda activate LSTM-ARIMA
 
 6) Execute os modelos LSTM ou ARIMA com o comando:
