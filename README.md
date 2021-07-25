@@ -6,14 +6,14 @@
 
 2) Baixe os arquivos do GitHub com: git clone https://github.com/cloviszuben/LSTM-ARIMA.git ou baixe o ZIP.
 
-3) cd LSTM-ARIMA 
-
-4) Abra o prompt de comandos do ANACONDA e aplique os comandos:
+3) Abra o prompt de comandos do ANACONDA e aplique os comandos:
+    
+    $> cd LSTM-ARIMA 
 
     $> conda create --name LSTM-ARIMA --file requirements.txt
     
     $> conda activate LSTM-ARIMA
 
-5) Execute os modelos LSTM ou ARIMA com o comando:
+4) Execute os modelos LSTM ou ARIMA com o comando:
 
     $> python <modelo.py> 
