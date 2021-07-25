@@ -89,8 +89,6 @@ model.add(Dense(1))
 model.compile(loss='mean_squared_error', optimizer='adam')
 model.fit(trainX, trainY, epochs=EPOCHS, batch_size=1, verbose=2)
 
-#sys.exit()
-
 # FAZ A PREVISÃO NO TESTE
 
 inputs = new_data[len(new_data) - len(test) - look_back:].values
