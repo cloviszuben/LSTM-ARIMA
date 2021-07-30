@@ -19,8 +19,8 @@
 4) Execute os modelos LSTM ou ARIMA com o comando:
 
     $> python <modelo.py> 
-
-       ou
+   
+    OU
        
     $> jupyter notebook <modelo.py>   
 
