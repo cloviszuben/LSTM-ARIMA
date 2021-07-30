@@ -9,6 +9,8 @@
 3) Abra o prompt de comandos do ANACONDA e aplique os comandos:
     
     $> cd LSTM-ARIMA 
+    
+    $> conda config --add channels conda-forge
 
     $> conda create --name LSTM-ARIMA --file requirements.txt
     
