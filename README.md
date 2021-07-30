@@ -25,10 +25,7 @@
     $> jupyter notebook <modelo.py>   
 
 
-- Os modelos também podem ser executados na máquina virtual Colab do Google pelos links:
+- Os modelos também podem ser executados na máquina virtual Colab do Google pelo link:
 
-   https://colab.research.google.com/github/cloviszuben/LSTM-ARIMA/blob/master/Graficos%20dos%20Dados%20Originais.ipynb
-   https://colab.research.google.com/github/cloviszuben/LSTM-ARIMA/blob/master/Modelo%20Preditivo%20-%20ARIMA.ipynb
-   https://colab.research.google.com/github/cloviszuben/LSTM-ARIMA/blob/master/Modelo%20Preditivo%20-%20LSTM.ipynb
-   
+   https://colab.research.google.com/github/cloviszuben/LSTM-ARIMA/blob/master/
 
