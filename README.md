@@ -22,7 +22,7 @@
    
     OU
        
-    $> jupyter notebook <modelo.py>   
+    $> jupyter notebook <modelo.ipynb>   
 
 
 - Os modelos também podem ser executados na máquina virtual Colab do Google pelo link:
