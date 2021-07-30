@@ -17,7 +17,6 @@ df.index = df.index.to_period('D')
 #df = df["2004-01-01":"2005-01-01"]
 print(df.head())
 
-"""
 from statsmodels.tsa.stattools import adfuller
 print("p-value:", adfuller(df)[1])
 
@@ -28,7 +27,6 @@ ax2 = fig.add_subplot(212)
 fig = plot_pacf(df.diff().diff().dropna(), lags=40, ax=ax2, title="PACF")
 
 plt.show()
-"""
 
 arima = ARIMA(df, order=(8,0,1), seasonal_order=(0,0,1,12))
 
